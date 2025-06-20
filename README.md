@@ -18,7 +18,7 @@ Then, the cosmetics begin, with providing ___profiling___ analysis, showing dist
 
 Finally, ___Market Basket Analysis___ is carried out, using both _Apriori_ and _FP-Growth_ algorithms to find the best antecedent-consequence pairs(rules). It turns out, two of the 6 clusters do not have rules that are statistically significant, but there is nothing that can be done about that - after all, this project is a research of the given data, and in this case, the whole analysis process proved to produce insignificant results.
 
-## Data folder
+## Data [folder](https://drive.google.com/drive/folders/19iHyue_sr9cbP6v9IqJBG-FX_e1FI2IC?usp=sharing)
 Initial dataset can be found in the _data.csv_ file.
 
 After carrying out the _clean_up.ipynb_, a _data_clean.csv_ file is produced
